@@ -56,3 +56,5 @@ Upon running the application, a menu will be displayed with the following option
 8.  **Exit:** Exits the application.
 
 ## File Structure
+
+Additional details added.
