@@ -57,6 +57,7 @@ public class Main {
                     inventory.saveInventory("inventory.dat");
                     System.out.println("Inventory saved to inventory.dat");
 # Added comment
+# Added comment
                     break;
                 case 7:
                     inventory.loadInventory("inventory.dat");
