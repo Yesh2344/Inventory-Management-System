@@ -8,6 +8,7 @@ public class Item implements Serializable {
     public Item(String name, int quantity) {
         this.name = name;
         this.quantity = quantity;
+# Added comment
     }
 
 # Added comment
