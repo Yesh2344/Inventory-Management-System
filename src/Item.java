@@ -15,6 +15,7 @@ public class Item implements Serializable {
     public String getName() {
         return name;
     }
+# Added comment
 
     public void setName(String name) {
         this.name = name;
