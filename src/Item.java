@@ -1,5 +1,6 @@
 # Minor edit
 import java.io.Serializable;
+# Added comment
 
 public class Item implements Serializable {
     private String name;
