@@ -21,6 +21,7 @@ public class Item implements Serializable {
     }
 
     public int getQuantity() {
+# Added comment
         return quantity;
     }
 
