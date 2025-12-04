@@ -10,6 +10,7 @@ public class Item implements Serializable {
         this.quantity = quantity;
     }
 
+# Added comment
     public String getName() {
         return name;
     }
